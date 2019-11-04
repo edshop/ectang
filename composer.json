@@ -1,0 +1,16 @@
+{
+    "name": "edshop/ip2region",
+    "description": "Ip2Region for PHP",
+    "type": "library",
+  	"license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "jarmin",
+            "email": "edshop@qq.com"
+        }
+    ],
+  	"minimum-stability": "dev",
+	"require": {
+	   "php": ">=7.0"
+	}
+}

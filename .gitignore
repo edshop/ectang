@@ -1,0 +1,7 @@
+.env
+.idea
+*.log
+.vscode
+vendor
+runtime
+public/upload
